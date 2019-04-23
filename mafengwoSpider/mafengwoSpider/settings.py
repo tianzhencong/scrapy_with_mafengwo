@@ -16,8 +16,8 @@ NEWSPIDER_MODULE = 'mafengwoSpider.spiders'
 
 MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'mafengwo'
-MYSQL_USER = 'root'
-MYSQL_PASSWD = 'root'
+MYSQL_USER = '****'
+MYSQL_PASSWD = '****'
 MYSQL_PORT = 3306
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
